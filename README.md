@@ -3,7 +3,7 @@
 **Berikut penjelasan program PRAKTIKUM 5 (Directory)**
 ---
 Ketika program kita run (jalankan), kita diminta menginputkan huruf depan dari menu yang tersedia, ada [ (T)ambah, (L)ihat, (U)bah, (H)apus, (Cari), (K)eluar ].
-Program ini juga mengguakan perulangan (while).
+Program ini juga menggunakan perulangan (while).
 
 *Berikut penjelasan setiap menunya :*
 
@@ -36,7 +36,7 @@ Jika nama tidak ada pada directory, akan muncul seperti ini :
 
 ![Screenshot (95)](https://user-images.githubusercontent.com/57055098/70363964-19441800-18bd-11ea-9f56-1f5c6d1fc33b.png)
 
-**4. Menu Cari**
+***4. Menu Cari***
 
 Kita dapat mencari data yang telah kita tambahkan pada directory. inputkan huruf 'c' untuk menu cari.
 Selanjutnya kita akan di minta menginputkan nama yang akan kita cari. Jika nama yang kita inputkan ada pada directory maka akan muncul seperti pada gambar di bawah ini: 
@@ -47,7 +47,7 @@ Jika nama tidak ada pada directory, hasilnya seperti ini:
 
 ![Screenshot (93)](https://user-images.githubusercontent.com/57055098/70363780-56f47100-18bc-11ea-9350-0ece57020bee.png)
 
-**5. Menu Hapus**
+***5. Menu Hapus***
 
 Dengan menu ini kita dapat menghapus data yang telah kita tambahkan pada directory. Kita cukup menginputkan huruf 'h'.
 Selanjutnya kita diminta menginputkan nama, ketika nama terdaftar sebagai Keys, maka otomatis data tersebut akan di hapus dari directory.
@@ -58,7 +58,7 @@ Jika nama tidak terdaftar akan muncul seperti di bawah ini :
 
 ![Screenshot (96)](https://user-images.githubusercontent.com/57055098/70364171-02ea8c00-18be-11ea-9576-7d08e117127a.png)
 
-**6. Menu Keluar**
+***6. Menu Keluar***
 
 Dengan menu ini kita akan mengakhiri program. cukup menginputkan huruf 'k'.
 
